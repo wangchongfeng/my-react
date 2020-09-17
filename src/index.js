@@ -11,5 +11,5 @@ const jsx = (
     </ul>
   </div>
 );
-
+console.log(jsx)
 ReactDom.render(jsx, document.getElementById('app'))
